@@ -1,13 +1,13 @@
 ### Hi there 👋
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{akash009889}}/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/{{akash009889/achievements?format=svg&limit=3" width="350" />
 </p>
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{akash009889}}/contributions?format=svg" width="350" />
+        <img src="https://api.vaunt.dev/v1/github/entities/{{akash009889/contributions?format=svg" width="350" />
     </a>
 </p>
-[![VauntCommunity](https://api.vaunt.dev/v1/github/entities/{{akash009889}}/badges/community)](https://community.vaunt.dev/board/{{akash009889}})
+[![VauntCommunity](https://api.vaunt.dev/v1/github/entities/akash009889/badges/community)](https://community.vaunt.dev/board/akash009889)
 <!--
 **akash009889/akash009889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
