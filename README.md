@@ -1,5 +1,6 @@
-<img src="https://api.vaunt.dev/v1/github/entities/akash009889/achievements?format=svg&limit=3" width="350" />
-<!--
+<p><img src="https://api.vaunt.dev/v1/github/entities/akash009889/achievements?format=svg&limit=3" width="350" />
+</p>p
+  <!--
 **akash009889/akash009889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
